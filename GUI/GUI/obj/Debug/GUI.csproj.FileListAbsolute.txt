@@ -1,0 +1,26 @@
+E:\Praktikum\Microcontroller\Project\GUI\GUI\bin\Debug\GUI.exe.config
+E:\Praktikum\Microcontroller\Project\GUI\GUI\bin\Debug\GUI.exe
+E:\Praktikum\Microcontroller\Project\GUI\GUI\bin\Debug\GUI.pdb
+E:\Praktikum\Microcontroller\Project\GUI\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+E:\Praktikum\Microcontroller\Project\GUI\GUI\obj\Debug\GUI.Form1.resources
+E:\Praktikum\Microcontroller\Project\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\Praktikum\Microcontroller\Project\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\Praktikum\Microcontroller\Project\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\Praktikum\Microcontroller\Project\GUI\GUI\obj\Debug\GUI.exe
+E:\Praktikum\Microcontroller\Project\GUI\GUI\obj\Debug\GUI.pdb
+E:\Praktikum\Microcontroller\Project\GUI\GUI\obj\Debug\GUI.Form2.resources
+E:\Praktikum\Microcontroller\Project\GUI\GUI\obj\Debug\GUI.Form3.resources
+E:\Praktikum\Microcontroller\Project\GUI\GUI\obj\Debug\GUI.Form4.resources
+E:\Praktikum\Microcontroller\Project\GUI\GUI\obj\Debug\GUI.Form5.resources
+D:\Laporan_Microcontrol\Praktikum Projek\aplikasi\GUI\GUI\bin\Debug\GUI.exe.config
+D:\Laporan_Microcontrol\Praktikum Projek\aplikasi\GUI\GUI\obj\Debug\GUI.exe
+D:\Laporan_Microcontrol\Praktikum Projek\aplikasi\GUI\GUI\obj\Debug\GUI.pdb
+D:\Laporan_Microcontrol\Praktikum Projek\aplikasi\GUI\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\Laporan_Microcontrol\Praktikum Projek\aplikasi\GUI\GUI\obj\Debug\GUI.Form1.resources
+D:\Laporan_Microcontrol\Praktikum Projek\aplikasi\GUI\GUI\obj\Debug\GUI.Form2.resources
+D:\Laporan_Microcontrol\Praktikum Projek\aplikasi\GUI\GUI\obj\Debug\GUI.Form3.resources
+D:\Laporan_Microcontrol\Praktikum Projek\aplikasi\GUI\GUI\obj\Debug\GUI.Form4.resources
+D:\Laporan_Microcontrol\Praktikum Projek\aplikasi\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Laporan_Microcontrol\Praktikum Projek\aplikasi\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\Laporan_Microcontrol\Praktikum Projek\aplikasi\GUI\GUI\bin\Debug\GUI.exe
+D:\Laporan_Microcontrol\Praktikum Projek\aplikasi\GUI\GUI\bin\Debug\GUI.pdb

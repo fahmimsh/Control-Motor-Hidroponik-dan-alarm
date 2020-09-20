@@ -1,0 +1,30 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+temp                                                              0x0160      33
+time                                                              0x0181      33
+baris                                                             0x01A2      16
+yy                                                                0x01B2       1
+kol                                                               0x01B3       1
+rpm                                                               0x01B4       4
+_base_y                                                           0x01B8       4
+_lcd_x                                                            0x01BC       1
+_lcd_y                                                            0x01BD       1
+_lcd_maxx                                                         0x01BE       1
+_seed                                                             0x01BF       4
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+data                                                              R4,R5        2
+data_motor                                                        R6,R7        2
+valOCR                                                            R9           1
+h                                                                 R8           1
+m                                                                 R11          1
+s                                                                 R10          1
+dd                                                                R13          1
+mm                                                                R12          1
